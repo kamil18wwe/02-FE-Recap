@@ -11,9 +11,7 @@ config --global user.name <name>
 config --global user.email <email>
 
 `
-
 0201 Znajdź i sklonuj repozytorium "no-framework-tutorial" użytkownika "PatrickLouys"
-
 `
 
 ```
