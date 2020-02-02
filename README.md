@@ -6,8 +6,8 @@ https://drive.google.com/drive/folders/1VBiHpbv2cltv-Rxtdi9gQjJFP_m1VoLG?usp=sha
 ### INFO
 Git: https://youtu.be/bdtaspSmFCk | https://youtu.be/LEystZRF8fQ
 
-git config --global user.name <name>
-git config --global user.email <email>
+git : config --global user.name <name>
+git : config --global user.email <email>
 
 
 ```
