@@ -25,7 +25,7 @@ https://youtu.be/arJ6uikJjJU
 #### 10 LOGIN_SIGNIN 
 #### 11 PHP/JS ADV
 #### 12 PHP/JS ADV
-#### 13 FRAMEWORKI,LIBRARIES
+#### 13 FRAMEWORKS,LIBRARIES
 #### 14 React.js
 #### 15 Vue.js
 #### 16 Node.js
