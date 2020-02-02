@@ -51,7 +51,7 @@ POWINIENEŚ ZNAĆ
 
 #----------Links
 
-https://github.com/infrmtktl/
+https://github.com/infrmtktl/https://github.com/infrmtktl/ GOOGLE STUDENTS: https://drive.google.com/open?id=1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe
 
 https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
 
