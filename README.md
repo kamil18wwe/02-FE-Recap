@@ -1,13 +1,11 @@
-# INFO
-VSCode: https://youtu.be/om4HQYXgZog |
-Emmet: https://docs.emmet.io/abbreviations/syntax/ |
-Git: https://youtu.be/bdtaspSmFCk |
 
-#--------Program:
 
 #### 01 BE_intro (27.01.2020) 
 # 02 FE_Recap (3.02.2020)
 https://drive.google.com/drive/folders/1VBiHpbv2cltv-Rxtdi9gQjJFP_m1VoLG?usp=sharing
+### INFO
+Git: https://youtu.be/bdtaspSmFCk |
+
 ```
 SPRAWDZIAN HTML,CSS,JS:
 
@@ -22,6 +20,8 @@ SPRAWDZIAN PUNKTACJA:
 
 https://youtu.be/arJ6uikJjJU
 ```
+
+
 #### 03 PHP_Intro (10.02.2020)
 #### 04 PHP (17.09.2019)
 #### 05 CMS Intro (24.10.2019)
