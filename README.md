@@ -10,6 +10,9 @@ config --global user.name <name>
 
 config --global user.email <email>
 
+``
+adasd
+``
 
 ```
 SPRAWDZIAN HTML,CSS,JS:
