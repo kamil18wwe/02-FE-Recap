@@ -26,7 +26,12 @@ SPRAWDZIAN PUNKTACJA:
 https://youtu.be/arJ6uikJjJU
 ```
 
-
+```
+POWINIENEŚ ZNAĆ
+- git: init, clone, status, add, commit, log
+- git adv: branch, checkout, merge, rebase,
+- git adv: remote, pull, push
+```
 #### 03 PHP_Intro (10.02.2020)
 #### 04 PHP (17.09.2019)
 #### 05 CMS Intro (24.10.2019)
