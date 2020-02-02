@@ -13,6 +13,12 @@ SPRAWDZIAN HTML,CSS,JS:
 https://pasja-informatyki.pl/programowanie-webowe/test/javascript-na-egzamin/
 https://pasja-informatyki.pl/programowanie-webowe/test/przeglad-css/
 
+SPRAWDZIAN PUNKTACJA:
+
+(0-9=1)         (10-13=2)      (14-17=3) 
+(18-22=4)     (23-27=5)      (28-29=6)
+
+
 https://youtu.be/arJ6uikJjJU
 ```
 #### 03 PHP_Intro (10.02.2020)
