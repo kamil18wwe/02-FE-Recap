@@ -4,7 +4,7 @@
 # 02 FE_Recap (3.02.2020)
 https://drive.google.com/drive/folders/1VBiHpbv2cltv-Rxtdi9gQjJFP_m1VoLG?usp=sharing
 ### INFO
-Git: https://youtu.be/bdtaspSmFCk |
+Git: https://youtu.be/bdtaspSmFCk | https://youtu.be/LEystZRF8fQ
 
 ```
 SPRAWDZIAN HTML,CSS,JS:
