@@ -7,6 +7,7 @@ Git: https://youtu.be/bdtaspSmFCk |
 
 #### 01 BE_intro (27.01.2020) 
 # 02 FE_Recap (3.02.2020)
+https://drive.google.com/drive/folders/1VBiHpbv2cltv-Rxtdi9gQjJFP_m1VoLG?usp=sharing
 ```
 SPRAWDZIAN HTML,CSS,JS:
 
