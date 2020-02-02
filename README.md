@@ -1,6 +1,3 @@
-# 01-Intro
-FrontEnd powtórzenie | Tools | BackEnd Intro
-
 # INFO
 VSCode: https://youtu.be/om4HQYXgZog |
 Emmet: https://docs.emmet.io/abbreviations/syntax/ |
@@ -9,7 +6,7 @@ Git: https://youtu.be/bdtaspSmFCk |
 #--------Program:
 
 ### 01 BE_intro (27.01.2020) 
-## 02 FE Recap (3.02.2020)
+## 02 FE_Recap (3.02.2020)
 ```
 SPRAWDZIAN HTML,CSS,JS:
 
@@ -20,7 +17,7 @@ https://youtu.be/arJ6uikJjJU
 ```
 ### 03 PHP_Intro (10.02.2020)
 ### 04 PHP (17.09.2019)
-### 05 CMS Intro (24.10.2019)
+### 05 CMS_Intro (24.10.2019)
 ### 06 WORDPRESS 
 ### 07 THEME 
 ### 08 PLUGIN 
