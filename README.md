@@ -28,7 +28,7 @@ https://youtu.be/arJ6uikJjJU
 
 ```
 POWINIENEŚ ZNAĆ
-- git: init, clone, status, add, commit, log
+- git: init, clone, status, log, add, commit
 - git adv: branch, checkout, merge, rebase,
 - git adv: remote, pull, push
 ```
