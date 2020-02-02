@@ -15,24 +15,22 @@ https://pasja-informatyki.pl/programowanie-webowe/test/przeglad-css/
 
 https://youtu.be/arJ6uikJjJU
 ```
-### 03 PHP_Intro (10.02.2020)
-### 04 PHP (17.09.2019)
-### 05 CMS_Intro (24.10.2019)
-### 06 WORDPRESS 
-### 07 THEME 
-### 08 PLUGIN 
-### 09 PHP_DB 
-### 10 LOGIN_SIGNIN 
-### 11 PHP/JS ADV
-### 12 PHP/JS ADV
-### 11 FRAMEWORKI,LIBRARIES
-### 12 React.js
-### 13 React App
-### 14 Vue.js
-### 15 Vue App
-### 16 Node.js
-### 17 Node App
-### 18 FIN
+#### 03 PHP_Intro (10.02.2020)
+#### 04 PHP (17.09.2019)
+#### 05 CMS Intro (24.10.2019)
+#### 06 WORDPRESS 
+#### 07 THEME 
+#### 08 PLUGIN 
+#### 09 PHP_DB 
+#### 10 LOGIN_SIGNIN 
+#### 11 PHP/JS ADV
+#### 12 PHP/JS ADV
+#### 13 FRAMEWORKI,LIBRARIES
+#### 14 React.js
+#### 15 Vue.js
+#### 16 Node.js
+#### 17 RECAP-EGZAM
+#### 18 FIN
 
 #----------Links
 
