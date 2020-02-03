@@ -21,6 +21,8 @@ Z0201 Utwórz repozytorium, utwórz 3 pliki index.html, style.css, app.js, każd
 kazdą zmianę zacommituj
 
 Z0202 Sprawdź czy wpisany w pole tekstowe tekst ma co najmniej 5 znaków i zawiera co najmniej jedną liczbę
+
+Z0203 Znajdź i sklonuj zdalne repoozytorium 'no-framework-tutorial' użytkownika 'PatrickLouys' 
 ```
 ```
 SPRAWDZIAN HTML,CSS,JS:
