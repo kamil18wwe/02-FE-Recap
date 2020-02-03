@@ -13,7 +13,7 @@ config --global user.email nowy_email
 
 ```
 Z0201 Utwórz repozytorium, utwórz 3 pliki index.html, style.css, app.js, każdy w odrębnym commicie odpowiednio opisując zmianę.
-- utwórz szare tło strony
+- zdefiniuj szare tło strony
 - wyświetl alert z napisem 'Hello'
 kazdą zmianę zacommituj
 ```
