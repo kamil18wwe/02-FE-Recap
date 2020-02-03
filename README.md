@@ -28,7 +28,7 @@ https://youtu.be/arJ6uikJjJU
 
 ```
 POWINIENEŚ ZNAĆ
-- CMD: cd, mkdir, touch
+- CMD: cd, dir, mkdir, touch
 - GIT: init, clone, status, log, add, commit
 - GIT adv: branch, checkout, merge, rebase,
 - GIT adv: remote, pull, push
