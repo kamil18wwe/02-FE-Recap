@@ -28,9 +28,10 @@ https://youtu.be/arJ6uikJjJU
 
 ```
 POWINIENEŚ ZNAĆ
-- git: init, clone, status, log, add, commit
-- git adv: branch, checkout, merge, rebase,
-- git adv: remote, pull, push
+- CMD: cd, mkdir, touch
+- GIT: init, clone, status, log, add, commit
+- GIT adv: branch, checkout, merge, rebase,
+- GIT adv: remote, pull, push
 ```
 #### 03 PHP_Intro (10.02.2020)
 #### 04 PHP (17.09.2019)
