@@ -6,9 +6,9 @@ https://drive.google.com/drive/folders/1VBiHpbv2cltv-Rxtdi9gQjJFP_m1VoLG?usp=sha
 ### INFO
 Git: https://youtu.be/bdtaspSmFCk | https://youtu.be/LEystZRF8fQ
 
-config --global user.name <name>
+config --global user.name uzyytkownik
 
-config --global user.email <email>
+config --global user.email nowy_email
 
 
 ```
