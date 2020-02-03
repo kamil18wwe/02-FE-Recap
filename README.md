@@ -12,6 +12,9 @@ config --global user.email nowy_email
 
 
 ```
+Z0201 Utwórz repozytorium, utwórz 3 pliki index.html, style.css, app.js, każdy w odrębnym commicie odpowiednio opisując zmianę.
+```
+```
 SPRAWDZIAN HTML,CSS,JS:
 
 https://pasja-informatyki.pl/programowanie-webowe/test/javascript-na-egzamin/
