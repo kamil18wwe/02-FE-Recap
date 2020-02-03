@@ -16,6 +16,8 @@ Z0201 Utwórz repozytorium, utwórz 3 pliki index.html, style.css, app.js, każd
 - zdefiniuj szare tło strony
 - wyświetl alert z napisem 'Hello'
 kazdą zmianę zacommituj
+
+Z0202 Sprawdź czy wpisany w pole tekstowe tekst ma co najmniej 5 znaków i zawiera co najmniej jedną liczbę
 ```
 ```
 SPRAWDZIAN HTML,CSS,JS:
