@@ -10,6 +10,9 @@ config --global user.name uzyytkownik
 
 config --global user.email nowy_email
 
+    "terminal.integrated.shell.windows":"C:\\Program Files\\Git\\bin\\bash.exe",
+
+
 
 ```
 Z0201 Utwórz repozytorium, utwórz 3 pliki index.html, style.css, app.js, każdy w odrębnym commicie odpowiednio opisując zmianę.
